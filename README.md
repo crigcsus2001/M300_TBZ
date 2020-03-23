@@ -2,9 +2,9 @@
 Dokumentation des Modul 300 Plattformübergreifende Dienste in ein Netzwerk integrieren
 
 ## Inhaltsverzeichnis
-* KN 01 - [KN01](## KN1)
-* KN 02 - [KN02](KN2)
-* KN 03 - [KN03](KN3)
+* KN 01 - [KN01](#KN1)
+* KN 02 - [KN02](#KN2)
+* KN 03 - [KN03](#KN3)
 * KN 04 - [KN04](KN4)
 * KN 05 - [KN05](KN5)
 
